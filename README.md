@@ -1,1 +1,1 @@
-# learningparty
+# Annual Computing Teachers Learning Party
